@@ -1,5 +1,5 @@
-sonar-scanner.bat -D"sonar.organization=andreapepe99" -D"sonar.projectKey=AndreaPepe_TestGitHubAction2" -D"sonar.sources=." -D"sonar.java.binaries=C:\Users\Andrea Pepe\Desktop\TestGitHubAction2\trunk\bin" -D"sonar.host.url=https://sonarcloud.io" 
+sonar-scanner.bat -D"sonar.organization=andreapepe99" -D"sonar.projectKey=AndreaPepe_TestGitHubAction2" -D"sonar.sources=." -D"sonar.java.binaries=C:\Users\Andrea Pepe\Desktop\TestGitHubAction2\trunk\bin" -D"sonar.host.url=https://sonarcloud.io"
 
 
 
-sonar-scanner.bat -D"project.settings=C:\Users\Andrea Pepe\Desktop\TestGitHubAction2\trunk\sonar-project.properties" 
+sonar-scanner.bat -D"project.settings=C:\Users\Andrea Pepe\Desktop\TestGitHubAction2\trunk\sonar-project.properties"
